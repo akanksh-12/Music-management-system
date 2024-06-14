@@ -1,1 +1,1 @@
-# Music-management-system
+Install XAMPP and start Apache and Mysql.
